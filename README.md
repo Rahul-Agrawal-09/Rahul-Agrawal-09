@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with **Python & Java**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **rahul9agr@gmail.com**
 
